@@ -1,0 +1,15 @@
+#obrazek1 {
+float:left;
+}
+#obrazek2 {
+    float:right;
+}
+    
+img {
+    width: 50%;
+    height: 50%;
+}
+
+p:last-of-type {
+    clear: both;
+}
