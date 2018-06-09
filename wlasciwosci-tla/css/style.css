@@ -1,0 +1,9 @@
+#tlo {
+    background-image: url(https://cdn.pixabay.com/photo/2018/06/06/20/14/roses-3458693_1280.jpg);
+    background-color: green;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 30% 30%;
+    background-attachment: fixed;
+    
+}
