@@ -38,8 +38,13 @@ div {
         }
     }
     .animation img {
-        animation-name: animation-example;
+     /*   animation-name: animation-example;
         animation-duration: 4s;
         animation-iteration-count: infinite;
         animation-timing-function: ease-in;
     }
+
+*/
+
+animation: animation-example 4s infinite ease-in;
+}
